@@ -2,7 +2,7 @@
 
 Modern Drupal Commerce theme developed by Bootiga.
 
-![Bootiq Homepage]([docs/images/bootiq-homepage.png](https://github.com/Bootiga-SaaS/bootiq/blob/main/screencapture-test24-bootiga-2026-06-12-11_50_18.png))
+![Bootiq Homepage](https://raw.githubusercontent.com/Bootiga-SaaS/bootiq/main/screencapture-test24-bootiga-2026-06-12-11_50_18.png)
 
 Bootiq is a modern storefront theme for Drupal Commerce, designed to help merchants build elegant, conversion-focused online stores with minimal configuration.
 
