@@ -1,5 +1,7 @@
 # Bootiq
 
+**Current stable release:** [1.0.1](https://github.com/Bootiga-SaaS/bootiq/releases/tag/1.0.1)
+
 Bootiq is an open-source, premium storefront package for Drupal Commerce Kickstart. It installs the Bootiq theme, reusable Layout Builder blocks, and the installer that connects them.
 
 Bootiq is developed and maintained by [Bootiga](https://www.bootiga.com). It can be used independently and does not require a Bootiga account.
@@ -32,6 +34,8 @@ composer require bootiga/bootiq:^1.0
 ./vendor/drush/drush/drush en bootiq_installer -y
 ./vendor/drush/drush/drush bootiq:install
 ~~~
+
+The `^1.0` constraint installs the latest compatible 1.x release (currently 1.0.1); it does not pin the installation to 1.0.0.
 
 Use **bootiq:install --force** on an existing Kickstart demo when Bootiq should replace its storefront configuration and Layout Builder displays. Without **--force**, existing storefront configuration is preserved.
 
