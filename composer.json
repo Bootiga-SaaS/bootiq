@@ -8,5 +8,16 @@
     "bootiga/bootiq-product-blocks": "^1.0",
     "bootiga/bootiq-installer": "^1.0",
     "centarro/commerce_kickstart": "^5.1"
+  },
+  "homepage": "https://www.bootiga.com",
+  "authors": [
+    {
+      "name": "Bootiga",
+      "homepage": "https://www.bootiga.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/Bootiga-SaaS/bootiq/issues",
+    "source": "https://github.com/Bootiga-SaaS/bootiq"
   }
 }
