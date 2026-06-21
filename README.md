@@ -4,6 +4,8 @@ Bootiq is a premium storefront package for Drupal Commerce Kickstart. It install
 
 Bootiq does not create products, articles, stores, users, or other demo content.
 
+![Bootiq storefront](screencapture-test24-bootiga-2026-06-12-11_50_18.png)
+
 ## Requirements
 
 - Commerce Kickstart 5.1.
