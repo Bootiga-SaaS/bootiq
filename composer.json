@@ -1,0 +1,12 @@
+{
+  "name": "bootiga/bootiq",
+  "description": "Bootiq premium storefront package for Drupal Commerce Kickstart.",
+  "type": "metapackage",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "bootiga/bootiq-theme": "^1.0",
+    "bootiga/bootiq-product-blocks": "^1.0",
+    "bootiga/bootiq-installer": "^1.0",
+    "centarro/commerce_kickstart": "^5.1"
+  }
+}
